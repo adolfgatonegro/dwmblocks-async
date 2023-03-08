@@ -5,6 +5,7 @@
 
 const Block blocks[] = {
 	BLOCK("sb-mpris", 5, 13),
+	BLOCK("cat /tmp/recordingicon 2>/dev/null", 0, 18),
 	BLOCK("sb-torrent", 30, 17),
 	BLOCK("sb-updates", 18000, 12),
 	BLOCK("sb-net", 1, 14),
